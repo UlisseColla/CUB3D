@@ -62,11 +62,12 @@ To build and run this project, you need the following:
     git clone git@github.com:UlisseColla/CUB3D.git
     cd CUB3D
     ```
-2. Build the mandatory part of the project using Make:
+2. Unzip the minilibx-linux.tgz file.
+3. Build the mandatory part of the project using Make:
     ```sh
     make
     ```
-3. Build the bonus part of the project:
+4. Build the bonus part of the project:
     ```sh
     make bonus
     ```
@@ -88,6 +89,7 @@ Example bad map:
 ```sh
 ./cub3D maps/bad/color_none.cub
 ```
+Will give this:
 ```
 Error
 Missing ceiling color
