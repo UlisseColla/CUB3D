@@ -96,8 +96,8 @@ After building the project, you can run the executable:
 This project was a two people effort, and it is to the wonderful [aconciar](https://github.com/aconciar) that I owe the fantastic textures that you can admire in our rendering project, plus all the parsing of the map and errors handling. The texture are 64 x 64 pixels, in .xpm format. They were all made by him with Piskel, pixel by pixel! If you are a 42 student you can check out his profile here --> [aconciar_42](https://profile.intra.42.fr/users/aconciar).
 
 Here is a preview of some of them:
-![torch_wall](textures/torch_wall.xpm)
-![sprite_animation](textures/sprite_1.xpm)
+![torch_wall](textures/png/torch_wall.png)
+![sprite_animation](textures/png/sprite_1.png)
 
 
 ### ENJOY!
