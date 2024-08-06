@@ -19,7 +19,7 @@ It runs smoothly with no memory leakage, feel free to test it with valgrind, alt
 
 The maps used in the game must have a specific extension --> .cub
 They all heave to respect the following form:
-
+```
 <----------------------------------->
 
 NO textures/mossed_wall.xpm
@@ -45,7 +45,7 @@ F 45,33,27
 111111111111111
 
 <----------------------------------->
-
+```
 A texture for north, south, east and west wall, the rgb values for ceiling and floor, then finally the map itself.
 Textures and colours must come before the map, otherwise an error will be thrown.
 
