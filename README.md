@@ -77,6 +77,21 @@ After building the project, you can run the executable:
 ```sh
 ./cub3D maps/good/choose_a_map.cub
 ```
+For the bonus part you'll find specific maps with doors (represented by a 'D' character) in the bonus folder inside maps/good.
+In maps/bad you can find maps that do not meet the requirements of the subjects and will therefore throw an error when passed as argument to the program.
+
+Bonus:
+```sh
+./cub3D maps/good/bonus/choose_a_bonus_map.cub
+```
+Example bad map:
+```sh
+./cub3D maps/bad/color_none.cub
+```
+```
+Error
+Missing ceiling color
+```
 
 ## Player's movement
 - **W** Forward
@@ -99,5 +114,3 @@ This project was a two people effort, and it is to the wonderful [aconciar](http
 
 
 ### ENJOY!
-
-
