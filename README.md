@@ -59,8 +59,8 @@ To build and run this project, you need the following:
 ### Building the Project
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/raycasting-3d-renderer.git
-    cd raycasting-3d-renderer
+    git clone git@github.com:UlisseColla/CUB3D.git
+    cd CUB3D
     ```
 2. Build the mandatory part of the project using Make:
     ```sh
@@ -93,6 +93,13 @@ After building the project, you can run the executable:
 
 ## Textures
 
-This project was a two people effort, and it is to the wonderful aconciar that I owe the fantastic tetures that you can admire in our rendering project. The texture are 64 x 64 pixels, in .xpm format. They were all made with Piskel, pixel by pixel!
+This project was a two people effort, and it is to the wonderful [aconciar](https://github.com/aconciar) that I owe the fantastic textures that you can admire in our rendering project, plus all the parsing of the map and errors handling. The texture are 64 x 64 pixels, in .xpm format. They were all made by him with Piskel, pixel by pixel! If you are a 42 student you can check out his profile here --> [aconciar_42](https://profile.intra.42.fr/users/aconciar).
+
+Here is a preview of some of them:
+![torch_wall](textures/torch_wall.xpm)
+![sprite_animation](textures/sprite_1.xpm)
+
+
+### ENJOY!
 
 
